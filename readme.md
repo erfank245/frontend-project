@@ -8,4 +8,4 @@
 ![alt text](https://raw.githubusercontent.com/erfank245/frontend-project/main/q%26a.jpg)
 
 حالت موبایل:
-![alt text](https://raw.githubusercontent.com/erfank245/frontend-project/main/q%26a.jpg)
+![alt text](https://raw.githubusercontent.com/erfank245/frontend-project/main/q%26amobile.jpg)
